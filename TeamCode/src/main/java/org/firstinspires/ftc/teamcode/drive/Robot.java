@@ -6,7 +6,7 @@ import org.firstinspires.ftc.teamcode.drive.SampleMecanumDrive;
 import org.firstinspires.ftc.teamcode.subsystems.Outtake;
 
 public class Robot {
-    private  boolean initialize;
+    private boolean initialize;
     public SampleMecanumDrive drive;
     public Outtake outtake;
 
